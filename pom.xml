@@ -23,6 +23,12 @@
             <version>1.0.2.Final</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.4.0.Final</version>
+        </dependency>
+
     </dependencies>
-<?--HW create the persistence.xml and hibernate annotations  -->
 </project>
+        <!--HW create the persistence.xml and hibernate annotations  -->
